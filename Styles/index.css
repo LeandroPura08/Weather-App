@@ -86,3 +86,12 @@ body{
   font-size: 28px;
   margin-top: -6px;
 }
+.weather{
+display: none;
+}
+.status{
+  display: none;
+  margin-left: 10px;
+  padding-top: 10px;
+  text-align: left;
+}
