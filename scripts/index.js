@@ -52,13 +52,5 @@ async function checkWeather(city){
       document.querySelector('.status').innerHTML = 'Snowing';
       weatherIcon.src = '/images/snow.png'
     }
-
-
-  
   console.log(data);
-
-
-
-
-
 }
